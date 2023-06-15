@@ -1,4 +1,3 @@
-
 FROM ubuntu:latest
 MAINTAINER madhu@gmail.com
 RUN apt-get update  
